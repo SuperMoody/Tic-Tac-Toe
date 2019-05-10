@@ -28,15 +28,15 @@
 ## Game Instructions
 - This is how the game board looks like:
 
-    ![](images/ui1.jpg)
+    ![](images/ui1.JPG)
 
 - To play your turn, enter a number that corresponds to your desired square and press enter.
 
 - You and your partner take turns this way until one of you win or it's a tie.
 
-    ![](images/ui2.jpg)
+    ![](images/ui2.JPG)
 
 
 ---
-## Licence:
+## License:
 MIT
