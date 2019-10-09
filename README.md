@@ -16,7 +16,7 @@
 ### 1) Download this repo
 - From GitHub: Clone or Download the repository or
 - From Git:
-    > git clone https://github.com/SuperMoody/tic-tac-toe
+    > git clone https://github.com/SuperMoudy/tic-tac-toe
 
 ### 2) Go to the project directory and open cmd then type:
 > make
